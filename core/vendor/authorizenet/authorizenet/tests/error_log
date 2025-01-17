@@ -1,0 +1,30 @@
+[27-Apr-2024 22:40:58 UTC] PHP Fatal error:  Uncaught RuntimeException: Property 'AUTHORIZENET_API_LOGIN_ID' not found. Define the property value or set the environment 'api_login_id' in /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/bootstrap.php:41
+Stack trace:
+#0 /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/Controller_Test.php(6): require_once()
+#1 {main}
+  thrown in /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/bootstrap.php on line 41
+[27-Apr-2024 22:43:00 UTC] PHP Fatal error:  Uncaught RuntimeException: Property 'AUTHORIZENET_API_LOGIN_ID' not found. Define the property value or set the environment 'api_login_id' in /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/bootstrap.php:41
+Stack trace:
+#0 /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/Controller_Test.php(6): require_once()
+#1 {main}
+  thrown in /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/bootstrap.php on line 41
+[27-Apr-2024 22:43:01 UTC] PHP Fatal error:  Uncaught RuntimeException: Property 'AUTHORIZENET_API_LOGIN_ID' not found. Define the property value or set the environment 'api_login_id' in /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/bootstrap.php:41
+Stack trace:
+#0 /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/Controller_Test.php(6): require_once()
+#1 {main}
+  thrown in /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/bootstrap.php on line 41
+[27-Apr-2024 22:43:03 UTC] PHP Fatal error:  Uncaught RuntimeException: Property 'AUTHORIZENET_API_LOGIN_ID' not found. Define the property value or set the environment 'api_login_id' in /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/bootstrap.php:41
+Stack trace:
+#0 /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/Controller_Test.php(6): require_once()
+#1 {main}
+  thrown in /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/bootstrap.php on line 41
+[27-Apr-2024 22:43:04 UTC] PHP Fatal error:  Uncaught RuntimeException: Property 'AUTHORIZENET_API_LOGIN_ID' not found. Define the property value or set the environment 'api_login_id' in /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/bootstrap.php:41
+Stack trace:
+#0 /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/Controller_Test.php(6): require_once()
+#1 {main}
+  thrown in /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/bootstrap.php on line 41
+[27-Apr-2024 22:43:05 UTC] PHP Fatal error:  Uncaught RuntimeException: Property 'AUTHORIZENET_API_LOGIN_ID' not found. Define the property value or set the environment 'api_login_id' in /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/bootstrap.php:41
+Stack trace:
+#0 /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/Controller_Test.php(6): require_once()
+#1 {main}
+  thrown in /home/pixeil/public_html/core/vendor/authorizenet/authorizenet/tests/bootstrap.php on line 41

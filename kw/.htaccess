@@ -1,0 +1,20 @@
+RewriteEngine On
+
+
+//RewriteRule ^Brand.htm(.*)$ kpay/Brand/index.php?path=$1 [L,QSA]
+
+# Rule to rewrite /apipayment requests to api/payment.php
+RewriteRule ^apipayment(.*)$ payment/index.php?path=$1 [L,QSA]
+
+# Condition to check if the request method is PUT
+#RewriteCond %{REQUEST_METHOD} PUT
+# Rule to rewrite all PUT requests to put/index.php
+#RewriteRule ^(.*)$ put/index.php?path=$1 [L,QSA]
+
+# Condition to check if the request method is not POST
+#RewriteCond %{REQUEST_METHOD} !POST
+# Rule to rewrite /api requests for non-POST methods to api/index.php
+RewriteRule ^api(.*)$ api/index.php?path=$1 [L,QSA]
+
+# Custom 404 error document
+ErrorDocument 404 /home/index.php

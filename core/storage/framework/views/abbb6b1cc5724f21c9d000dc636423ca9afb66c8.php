@@ -1,0 +1,1 @@
+ <?php /**PATH /home/u131946897/domains/webook-riyadhseason.com/public_html/core/resources/views/back/order/table.blade.php ENDPATH**/ ?>
